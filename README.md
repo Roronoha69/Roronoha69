@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [justinmbodje.fr](justinmbodje.fr)
+- 👨‍💻 All of my projects are available at <a href="https://justinmbodje.fr"  target="blank" rel="noreferrer">justinmbodje.fr</a>
 
 - 📫 How to reach me **mbodje.justin@gmail.com**
 
-- 📄 Know about my experiences [justinmbodje.fr/cv](justinmbodje.fr/cv)
+- 📄 Know about my experiences <a href="https://justinmbodje.fr/cv"  target="blank" rel="noreferrer">justinmbodje.fr/cv</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
