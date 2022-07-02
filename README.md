@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Justin Mbodje, Fullstack developer</h1>
-<h3 align="center">Check my last project at <a href="https://korsano.com"  target="blank" rel="noreferrer">Korsano.com</a></h3>
+<h3 align="center">Check my last project at <a target="_blank" href="https://korsano.com" rel="noreferrer">Korsano.com</a></h3>
 
 - 🔭 I’m currently working on Korsano
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at <a href="https://justinmbodje.fr"  target="blank" rel="noreferrer">justinmbodje.fr</a>
+- 👨‍💻 All of my projects are available at <a href="https://justinmbodje.fr" target="_blank" rel="noreferrer">justinmbodje.fr</a>
 
 - 📫 How to reach me **mbodje.justin@gmail.com**
 
-- 📄 Know about my experiences <a href="https://justinmbodje.fr/cv"  target="blank" rel="noreferrer">justinmbodje.fr/cv</a>
+- 📄 Know about my experiences <a href="https://justinmbodje.fr/cv"  target="_blank" rel="noreferrer">justinmbodje.fr/cv</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
