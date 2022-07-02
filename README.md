@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin Mbodje</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [Korsano](Korsano.com)
+- 🔭 I’m currently working on [Korsano](www.korsano.com)
 
 - 🌱 I’m currently learning **Vue.js**
 
