@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Mbodje, Fullstack developer</h1>
-<h3 align="center">Check my last project at <a href="https://korsano.com"  target="_blank" rel="noreferrer">Korsano.com</a></h3>
+<h3 align="center">Check my last project at <a href="https://korsano.com"  target="blank" rel="noreferrer">Korsano.com</a></h3>
 
 - 🔭 I’m currently working on [Korsano.com]
 
