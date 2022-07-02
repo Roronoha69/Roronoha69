@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences <a href="https://justinmbodje.fr/cv"  target="_blank" rel="noreferrer">justinmbodje.fr/cv</a>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
