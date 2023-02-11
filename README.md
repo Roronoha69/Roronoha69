@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Justin Mbodje, Backend developer</h1>
-<h3 align="center">Check my last project at <a target="_blank" href="https://korsano.com" rel="noreferrer">Korsano.com</a></h3>
+ <h1 align="center">Hi 👋, I'm Justin Mbodje, Backend developer</h1> 
+<!-- <h3 align="center">Check my last project at <a target="_blank" href="https://korsano.com" rel="noreferrer">Korsano.com</a></h3> -->
 
 - 🔭 I’m currently working on Korsano
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at <a href="https://justinmbodje.fr" target="_blank" rel="noreferrer">justinmbodje.fr</a>
 
